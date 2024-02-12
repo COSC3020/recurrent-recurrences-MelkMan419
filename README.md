@@ -11,6 +11,7 @@ $$ T(n) =
     \end{cases}
 $$
 T(n)=$\Theta$(log n)
+
 2.
 $$ T(n) =
     \begin{cases}
