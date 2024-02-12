@@ -10,7 +10,8 @@ $$ T(n) =
         T\left(\frac{n}{13}\right) + 5 & n > 1
     \end{cases}
 $$
-T(n)=$\Theta$(log n)
+
+T(n)= $\Theta$ (log n)
 
 2.
 $$ T(n) =
@@ -20,6 +21,8 @@ $$ T(n) =
     \end{cases}
 $$
 
+T(n)= $\Theta$ (n)
+
 3.
 $$ T(n) =
     \begin{cases}
@@ -27,3 +30,5 @@ $$ T(n) =
         13 T\left(\frac{n}{13}\right) + 2n & n > 1
     \end{cases}
 $$
+
+T(n)= $\Theta$ (n log n)
