@@ -11,7 +11,7 @@ $$ T(n) =
     \end{cases}
 $$
 
-T(n)= $\Theta$ (log n)
+T(n)∈ $\Theta$ (log n)
 
 2.
 $$ T(n) =
@@ -21,7 +21,7 @@ $$ T(n) =
     \end{cases}
 $$
 
-T(n)= $\Theta$ (n)
+T(n)∈ $\Theta$ (n)
 
 3.
 $$ T(n) =
@@ -31,4 +31,4 @@ $$ T(n) =
     \end{cases}
 $$
 
-T(n)= $\Theta$ (n log n)
+T(n)∈ $\Theta$ (n log n)
